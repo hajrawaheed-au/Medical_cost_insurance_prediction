@@ -1,0 +1,52 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Python distribution / build files
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Local configuration
+*.local
+
+# Sensitive environment variables
+.env
+.env.*
+
+# Model files
+# Uncomment the following if you do NOT want to upload trained models
+# *.pkl
+
+# Large/local datasets
+# Uncomment if you do NOT want to upload datasets
+# *.csv
