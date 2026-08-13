@@ -166,6 +166,3 @@ python src/predict.py
 ## 👤 Author
 
 **Hajra Waheed**
-
-```
-```
